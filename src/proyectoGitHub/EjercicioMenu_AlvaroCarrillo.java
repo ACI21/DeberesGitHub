@@ -72,5 +72,6 @@ public class EjercicioMenu_AlvaroCarrillo {
 		System.out.println("1. hola mundo");
 		System.out.println("2. adoro java");
 		System.out.println("3. adoro eclipse");
+		System.out.println("");
 	} 
 }
