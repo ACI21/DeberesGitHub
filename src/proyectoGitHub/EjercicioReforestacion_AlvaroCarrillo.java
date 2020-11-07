@@ -1,3 +1,6 @@
+https://github.com/ACI21/DeberesGitHub/blob/master/src/proyectoGitHub/EjercicioReforestacion_AlvaroCarrillo.java
+EjercicioReforestacion_AlvaroCarrillo
+
 package proyectoGitHub;
 
 public class Reforestacion_Array {
@@ -11,11 +14,11 @@ public class Reforestacion_Array {
 		int total = 0;
 				
 		for (int i = 0; i<=4 ; i++) {
-			System.out.println("Para el bloque "+ i + ", se hará una reforestación con: " + (Area[i]*FactorD[i]) + " árboles."); 
+			System.out.println("Para el bloque "+ i + ", se harÃ¡ una reforestaciÃ³n con: " + (Area[i]*FactorD[i]) + " Ã¡rboles."); 
 			total = total + (Area[i]*FactorD[i]);
 			
 			if (i == 3) {
-				System.out.println("\nLa reforestación total constaria de: "+ total + " árboles.");
+				System.out.println("\nLa reforestaciÃ³n total constaria de: "+ total + " Ã¡rboles.");
 			}
 		}
 	}
